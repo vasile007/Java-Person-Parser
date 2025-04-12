@@ -6,9 +6,9 @@
 
 public class Person {
 
-    String First_Name;
-    String Last_Name;
-    String Place_of_Birth;
+ private String First_Name;
+ private  String Last_Name;
+ private  String Place_of_Birth;
 
 
     public Person(){
